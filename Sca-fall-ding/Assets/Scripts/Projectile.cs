@@ -5,8 +5,8 @@ using UnityEngine;
 public class Projectile : MonoBehaviour
 {
     public Transform trans;
-    public float speed= 34f;
-    public float range = 70f;
+    public float speed= 5f;
+    public float range = 5f;
     private Vector3 spawnPoint;
     void Start()
     {
