@@ -1,17 +1,14 @@
 fileFormatVersion: 2
-guid: 42bb110f932185641a11a6a7c025c86a
+guid: 71893a8a2fd1a484992259e64271e9b1
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable:
   - first:
-      74: -1960031632367322314
-    second: Eyes.004|Eyes.004Action
+      74: 8355524317210576369
+    second: Ragdol|Armature.002|mixamo.com|Layer0
   - first:
-      74: 3145953071299284637
-    second: Armature.002|Armature.002|mixamo.com|Layer0
-  - first:
-      74: -5613155125686563391
-    second: Armature.002|Eyes.004Action
+      74: -6865245523461087248
+    second: Ragdol|Armature.006|mixamo.com|Layer0
   externalObjects: {}
   materials:
     materialImportMode: 1
